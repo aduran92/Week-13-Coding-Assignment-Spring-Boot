@@ -1,0 +1,16 @@
+package snippet;
+
+public class Snippet {
+	docker-compose.yml                       docker-compose.yml
+	  src                                      src
+	    test                                     test
+	      resources                                resources
+	        flyway                                   flyway
+	        conf                                       conf
+	          flyway.conf                                flyway.conf
+	        migrations                                 migrations
+	          V1.0__Jeep_Schema.sql                      V1.0__Jeep_Schema.sql
+	          V1.1__Jeep_Data.sql                        V1.1__Jeep_Data.sql
+	
+}
+
